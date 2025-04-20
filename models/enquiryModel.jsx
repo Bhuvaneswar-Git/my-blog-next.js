@@ -17,4 +17,4 @@ const EnquirySchema = new Schema({
 
 const EnquiryModel = models.Enquiry || model("Enquiry", EnquirySchema)
 
-export default EnquiryModel;
+export default EnquiryModel; 
